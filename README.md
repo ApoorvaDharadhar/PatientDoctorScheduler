@@ -1,6 +1,6 @@
 # Patient Doctor Scheduler using Python and SQLite
 
-Our Scheduler application provides a comprehensive solution for managing patients, doctors, and appointments. It allows users to add, update, delete, and fetch records for both patients and doctors, ensuring efficient management of medical data.
+The Scheduler application provides a comprehensive solution for managing patients, doctors, and appointments. It allows users to add, update, delete, and fetch records for both patients and doctors, ensuring efficient management of medical data.
 
 ## Features
 
